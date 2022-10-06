@@ -9,9 +9,16 @@ pandas = "*"
 matplotlib = "*"
 sklearn = "*"
 seaborn = "*"
+pydotplus = "*"
 
 [dev-packages]
 autopep8 = "*"
 
 [requires]
 python_version = "3.9"
+
+[scripts]
+plot_dataset = "python -c 'from src import main; main.plot_dataset()'"
+get_logistic_regression_model = "python -c 'from src import main; main.get_logistic_regression_model()'"
+get_decision_trees_model = "python -c 'from src import main; main.get_decision_trees_model()'"
+compare_logistic_and_decision_trees = "python -c 'from src import main; main.compare_logistic_and_decision_trees()'"

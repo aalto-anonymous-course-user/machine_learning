@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0aadb99960d24e9c8d6ec226de6d230258f0b7964847bc0aeae49ac02d3072e1"
+            "sha256": "26de79337a0e782ea771b84b34d70fefa7e593b71245a2775d4aeac3cf3a1f40"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -101,11 +101,11 @@
         },
         "fonttools": {
             "hashes": [
-                "sha256:a5bc5f5d48faa4085310b8ebd4c5d33bf27c6636c5f10a7de792510af2745a81",
-                "sha256:f32ef6ec966cf0e7d2aa88601fed2e3a8f2851c26b5db2c80ccc8f82bee4eedc"
+                "sha256:86918c150c6412798e15a0de6c3e0d061ddefddd00f97b4f7b43dfa867ad315e",
+                "sha256:afae1b39555f9c3f0ad1f0f1daf678e5ad157e38c8842ecb567951bf1a9b9fd7"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.37.3"
+            "version": "==4.37.4"
         },
         "joblib": {
             "hashes": [
@@ -375,6 +375,13 @@
             "markers": "python_version >= '3.7'",
             "version": "==9.2.0"
         },
+        "pydotplus": {
+            "hashes": [
+                "sha256:91e85e9ee9b85d2391ead7d635e3d9c7f5f44fd60a60e59b13e2403fa66505c4"
+            ],
+            "index": "pypi",
+            "version": "==2.0.2"
+        },
         "pyparsing": {
             "hashes": [
                 "sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb",
@@ -393,10 +400,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:220f481bdafa09c3955dfbdddb7b57780e9a94f5127e35456a48589b9e0c0197",
-                "sha256:cea221417204f2d1a2aa03ddae3e867921971d0d76f14d87abb4414415bbdcf5"
+                "sha256:2c0784747071402c6e99f0bafdb7da0fa22645f06554c7ae06bf6358897e9c91",
+                "sha256:48ce799d83b6f8aab2020e369b627446696619e79645419610b9facd909b3174"
             ],
-            "version": "==2022.2.1"
+            "version": "==2022.4"
         },
         "scikit-learn": {
             "hashes": [
